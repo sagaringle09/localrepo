@@ -1,0 +1,24 @@
+# Covid Awareness Website
+
+It is a Covid19 Awareness Website made with simple HTML, CSS, and bootstrap.
+It gives detail information about precautions, symptoms and the causes of Coronavirus guiding you about the various myth busters
+and activities taking place related to corona.
+In short, it is the go-to website for anyone who wants information related to corona and its updates.
+This website aims to provide information and resources related to Covid-19, raising awareness and promoting best practices to help combat the spread of the virus.
+
+## Table of Contents
+
+- [Features](#features)
+- [Created By](#contact)
+
+## Features
+
+- **Information:** Learn about the symptoms, prevention measures, and latest updates on Covid-19.
+- **Resources:** Access helpful resources such as articles, infographics, and videos related to the pandemic.
+- **Vaccination:** Find information about Covid-19 vaccination, including eligibility, scheduling, and FAQs.
+
+## Created By:
+
+- Project Maintainer: Sagar Ingle
+- Email: sagar.inglee@gmail.com
+- LinkedIn: [www.linkedin.com/in/sagar-ingle](http://example.com)
